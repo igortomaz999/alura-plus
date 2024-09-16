@@ -53,7 +53,7 @@ body {
 }
 
 .container__botao:hover {
-    background-color: #3e82d5;
+    background-color: #ff8fee;
     color: var(--cor-de-fundo);
 }
 
